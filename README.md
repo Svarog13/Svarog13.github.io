@@ -1,7 +1,6 @@
 # Svarog13.github.io
 
+# Polunets Andrii
 
-#Polunets Andrii
 
-
-##Project Web-Deco!
+## Project Web-Deco!
